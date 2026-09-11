@@ -178,7 +178,7 @@ source venv/bin/activate       En Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 11. Instrucciones para ejecutar la API
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 
 La API quedara disponible en http://127.0.0.1:8000
 
