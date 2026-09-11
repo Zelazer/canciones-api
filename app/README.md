@@ -1,3 +1,5 @@
+PARCIAL 1 - Juan David Herrera Gonzalez y Juan Camilo Diaz Herrera
+
 API de Canciones
 
 1. Nombre del proyecto
